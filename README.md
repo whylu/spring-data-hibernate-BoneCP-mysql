@@ -6,6 +6,7 @@ How to:
 This is a maven project.
 
 1. download and maven install
+
 >git clone https://github.com/whylu/spring-data-hibernate-BoneCP-mysql.git
 
 >cd spring-data-hibernate-BoneCP-mysql.git
@@ -16,7 +17,7 @@ This is a maven project.
 
 3. change the conf at
 > src\main\resources\db.properties
-change the <jdbc.driver>, <jdbc.url>, <jdbc.username>, <jdbc.password>
+change the jdbc.driver, jdbc.url, jdbc.username, jdbc.password
 
 4. run the example
 >mvn exec:java -Dexec.mainClass="demo.run.jpa.JpaExampleRunner01"
