@@ -6,7 +6,6 @@ How to:
 This is a maven project.
 
 1. download and maven install
-
 >git clone https://github.com/whylu/spring-data-hibernate-BoneCP-mysql.git
 
 >cd spring-data-hibernate-BoneCP-mysql.git
