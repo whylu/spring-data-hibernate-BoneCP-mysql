@@ -7,7 +7,9 @@ This is a maven project.
 
 1. download and maven install
 >git clone https://github.com/whylu/spring-data-hibernate-BoneCP-mysql.git
+
 >cd spring-data-hibernate-BoneCP-mysql.git
+
 >mvn install
 
 2. prepare a mysql DB named "spring-data-jpa" (you can name it if you like)
