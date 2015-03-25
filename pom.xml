@@ -103,12 +103,6 @@
         </dependency>
         -->
         
-        <!-- DataSource -->
-        <dependency>
-            <groupId>com.zaxxer</groupId>
-            <artifactId>HikariCP</artifactId>
-        </dependency>
-        
         <!-- JPA Provider -->
         <dependency>
             <groupId>org.hibernate</groupId>
